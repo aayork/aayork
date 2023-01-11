@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayork
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning java and unix commands
+- 🌱 I’m currently learning C, HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on anything
 
 <!---
