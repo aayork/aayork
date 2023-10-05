@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aayork
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning C, HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on anything
+- 🧠 I’m currently learning data structures
 
 <!---
 aayork/aayork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
