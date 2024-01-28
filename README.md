@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aayork
 - 👀 I’m interested in learning
-- 🧠 I’m currently learning data structures
+- 🧠 I’m currently learning swift & swiftUI
 
 <!---
 aayork/aayork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
