@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aayork, learn more about me at [my website.](https://www.aidanayork.com/)
+- 👋 Hi, I’m @aayork, learn more about me at [aidanayork.com.](https://www.aidanayork.com/)
 
 <!---
 aayork/aayork is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
